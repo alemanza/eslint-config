@@ -1,6 +1,6 @@
 {
   "name": "@alemanza/eslint-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Eslint configuration test",
   "author": "Alejandro Manza <alejandromanza@gmail.com>",
   "license": "ISC",
